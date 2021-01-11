@@ -1,4 +1,4 @@
-# Traffic Signs Recognition
+# Neural Style Transfer Bot For Telegram
 
 ## Installation
 First clone the repository.
